@@ -1,4 +1,4 @@
-## [AngularJS Assignment]
+## RWD-Assessment
 
 ## Requirements
 - Python 3.6
@@ -7,7 +7,7 @@
 Please consult Google if you need to install any of the pre-requisites
 
 ## Installation
-- Clone/Download the git repo - `git clone git@github.com:Kagiso-Future-Media/cms.git`.
+- Clone/Download the git repo - `git clone https://github.com/Mhlengi/RWD-Assessment.git`.
 - Create a Postgres database `angular_js_assigment` with user `postgres` and password `password`
 - Navigate to a project folder('live_amp')
 - Create virtual environment: virtualenv -p python3 venv
