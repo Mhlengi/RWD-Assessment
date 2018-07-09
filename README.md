@@ -9,7 +9,7 @@ Please consult Google if you need to install any of the pre-requisites
 ## Installation
 - Clone/Download the git repo - `git clone https://github.com/Mhlengi/RWD-Assessment.git`.
 - Create a Postgres database `angular_js_assigment` with user `postgres` and password `password`
-- Navigate to a project folder('live_amp')
+- Navigate to a project folder('angular-js-assignment')
 - Create virtual environment: virtualenv -p python3 venv
 - Activate a virtual environment: . venv/bin/activate
 - Install all the python dependencies `pip install -r requirements.txt`
