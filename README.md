@@ -14,6 +14,7 @@ Please consult Google if you need to install any of the pre-requisites
 - Activate a virtual environment: `. venv/bin/activate`
 - Install all the python dependencies `pip install -r requirements.txt`
 - Run the database migrations `python manage.py migrate`
+- Run collect static files `python manage.py collectstatic`
 - Start the webserver `python manage.py runserver`
 (*Please note everytime you pull from master you may need to run the migrations and install any new dependencies
 - as per the above instructions*)
