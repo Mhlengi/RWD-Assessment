@@ -10,8 +10,8 @@ Please consult Google if you need to install any of the pre-requisites
 - Clone/Download the git repo - `git clone https://github.com/Mhlengi/RWD-Assessment.git`.
 - Create a Postgres database `angular_js_assigment` with user `postgres` and password `password`
 - Navigate to the project folder`angular-js-assignment`
-- Install python3 brew install python3
-- Install pip3 pip3 install virtualenv
+- Install python3 `brew install python3`
+- Install pip3 `pip3 install virtualenv`
 - Create virtual environment: `virtualenv -p python3 venv`
 - Activate a virtual environment: `. venv/bin/activate`
 - Install all the python dependencies `pip install -r requirements.txt`
